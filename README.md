@@ -10,6 +10,7 @@ If you want to experiment further with topological data in R, take a look at:
 * [this PDF](http://cran.r-project.org/web/packages/plot3D/vignettes/volcano.pdf) listing various ways to have fun with R and the Volcano dataset
 * [Shiny-RGL](https://github.com/trestletech/shinyRGL) which is a Shiny wrapper for the [RGL package](https://r-forge.r-project.org/projects/rgl/). It allows you to use RGL, an openGL package for R, in ShinyApps. Using it would allow you to directly move the volcano with the mouse, instead of relying on sliders to move the point of view.
 * [GeoTheory](http://geotheory.co.uk/blog/2014/02/07/visualising-topography/) also has some nice experiments with maps and R.
+
 *This is by no means a list of definitive reference on this topic, I just wanted to share some fun links :)*
 
 ### How to use this Shiny App
