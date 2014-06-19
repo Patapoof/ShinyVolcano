@@ -8,8 +8,8 @@ shinyUI(pageWithSidebar(
     sliderInput('sliderPhi', '<- Down / Up ->', value = 30, min = 0, max = 90, step = 5),
     h4('Misc'),
     sliderInput('sliderHeightScale', 'Height scale', value = 1, min = 1, max = 5, step = 1),
-    sliderInput('sliderShade', 'Shade', value = 75, min = 1, max = 100, step = 1)
-    
+    sliderInput('sliderShade', 'Shade', value = 75, min = 1, max = 100, step = 1),
+    helpText(a("Help / Readme", href="https://github.com/simabo/ShinyVolcano/blob/master/README.md", target="_blank"))
   ),
   mainPanel(
     plotOutput('ThreeDee')

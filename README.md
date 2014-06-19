@@ -14,6 +14,9 @@ If you want to experiment further with topological data in R, take a look at:
 *This is by no means a list of definitive reference on this topic, I just wanted to share some fun links :)*
 
 ### How to use this Shiny App
+Simply go to [shinyapps.io](http://simabo.shinyapps.io/ShinyVolcano), to run the app in the browser. The commands are straightforward : you can change the camera point of view in the "Point of view" section and, below, act on the "height scale" (how much the altitude is exagerated) and on the shading (roughly, the shadowing contrast).
+
+#### How to install locally
 * Grab the files or clone the repo
 * Fire up R (or better, RStudio), load the ui.R and server.R files
 * Set your working directory to where the files are located
