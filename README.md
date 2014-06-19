@@ -14,9 +14,9 @@ If you want to experiment further with topological data in R, take a look at:
 *This is by no means a list of definitive reference on this topic, I just wanted to share some fun links :)*
 
 ### How to use this Shiny App
-Grab the files or clone the repo
-Fire up R (or better, RStudio), load the ui.R and server.R files
-Set your working directory to where the files are located
-Make sure you have the Shiny package (if not, `install.packages('shiny')`)
-Issue the runApp() command (note that the latest RStudio, v.0.98.932, has new commands to launch directly ShinyApps)
-From there, just interact with the Volcano using the inputs located in the left panel
+* Grab the files or clone the repo
+* Fire up R (or better, RStudio), load the ui.R and server.R files
+* Set your working directory to where the files are located
+* Make sure you have the Shiny package (if not, `install.packages('shiny')`)
+* Issue the runApp() command (note that the latest RStudio, v.0.98.932, has new commands to launch directly ShinyApps)
+* From there, just interact with the Volcano using the inputs located in the left panel
